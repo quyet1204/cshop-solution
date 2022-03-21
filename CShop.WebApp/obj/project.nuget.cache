@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nJEQv750o6I+29WX6WPFdGWe2CY3mwIHWYr6thNaKlGG7dsZ4VZV84g2mYQ8vfCXaPIwZc5Jj8DgsbDBetouAA==",
+  "dgSpecHash": "QqGfgFW4GfxcTdu+P0YTnEfEJ+92bHMW4RzOcXKNdahjgHiCoJq5cPWmU0D7HTwGSVMEBzd2o10fa3s50qAuYA==",
   "success": true,
-  "projectFilePath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\CShop.WebApp.csproj",
+  "projectFilePath": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\CShop.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

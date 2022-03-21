@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FN8iKJpSI/0mnmL7QEPfdFbIBcNUwpArGNRWKpQpDtY=",
+  "Hash": "Zg+1v0tYLumd6qvC1qEcmKkDpWPbkSOIJGLc5wQGaYU=",
   "Source": "CShop.WebApp",
   "BasePath": "_content/CShop.WebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CShop.WebApp\\wwwroot",
       "Source": "CShop.WebApp",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CShop.WebApp.styles.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CShop.WebApp.styles.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "CShop.WebApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CShop.WebApp.styles.css"
+      "OriginalItemSpec": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CShop.WebApp.styles.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CShop.WebApp.bundle.scp.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CShop.WebApp.bundle.scp.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "CShop.WebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CShop.WebApp.bundle.scp.css"
+      "OriginalItemSpec": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CShop.WebApp.bundle.scp.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\.gitattributes",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\.gitattributes",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/.gitattributes",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\.gitattributes"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-black.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-black.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/assets/AT-pro-black.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\assets\\AT-pro-black.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-logo.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-logo.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/assets/AT-pro-logo.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\assets\\AT-pro-logo.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-white.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-white.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/assets/AT-pro-white.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\assets\\AT-pro-white.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\tuat.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\tuat.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/assets/tuat.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\assets\\tuat.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\all.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\all.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/all.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\all.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\all.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\all.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/all.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\brands.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\brands.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/brands.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\brands.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\brands.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\brands.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/brands.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\brands.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\fontawesome.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\fontawesome.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/fontawesome.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\fontawesome.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\fontawesome.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\fontawesome.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\regular.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\regular.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/regular.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\regular.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\regular.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\regular.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/regular.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\regular.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\solid.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\solid.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/solid.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\solid.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\solid.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\solid.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/solid.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\solid.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\svg-with-js.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\svg-with-js.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/svg-with-js.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\svg-with-js.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\svg-with-js.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\svg-with-js.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\v4-shims.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\v4-shims.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/v4-shims.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\v4-shims.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\v4-shims.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\v4-shims.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\LICENSE.txt",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\LICENSE.txt",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/LICENSE.txt",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.eot",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.svg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.eot",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.svg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.eot",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.svg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/fontawesome-free/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\index.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\index.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/index.html",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\index.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\index.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\index.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/index.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\index.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\LICENSE",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\LICENSE",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/LICENSE",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\LICENSE"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\preview\\Screenshot_1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\preview\\Screenshot_1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/preview/Screenshot_1.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\preview\\Screenshot_1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\preview\\Screenshot_3.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\preview\\Screenshot_3.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/preview/Screenshot_3.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\preview\\Screenshot_3.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\README.md",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\README.md",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/README.md",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\README.md"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-admin\\style.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\style.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-admin/style.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-admin\\style.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\blog.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\blog.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/blog.html",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\blog.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\blog-detail.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\blog-detail.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/blog-detail.html",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\blog-detail.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\cart.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\cart.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/cart.html",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\cart.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\category.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\category.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/category.html",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\category.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\checkout.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\checkout.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/checkout.html",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\checkout.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\contact-us.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\contact-us.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/contact-us.html",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\contact-us.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\css\\custom-style.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\css\\custom-style.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/css/custom-style.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\css\\custom-style.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\css\\slick.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\css\\slick.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/css/slick.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\css\\slick.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\css\\slick-theme.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\css\\slick-theme.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/css/slick-theme.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\css\\slick-theme.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\faq's.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\faq's.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/faq's.html",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\faq's.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-bold-df33d802f345a9037eb82e0c80e76547.woff2",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-bold-df33d802f345a9037eb82e0c80e76547.woff2",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/fonts/eina-bold-df33d802f345a9037eb82e0c80e76547.woff2",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\fonts\\eina-bold-df33d802f345a9037eb82e0c80e76547.woff2"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-bold-e952eb8c3c7699a699420a4a4dc6ed6b.woff",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-bold-e952eb8c3c7699a699420a4a4dc6ed6b.woff",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/fonts/eina-bold-e952eb8c3c7699a699420a4a4dc6ed6b.woff",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\fonts\\eina-bold-e952eb8c3c7699a699420a4a4dc6ed6b.woff"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-regular-962b94746f466cf38b0dcc93ebf0703e.woff2",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-regular-962b94746f466cf38b0dcc93ebf0703e.woff2",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/fonts/eina-regular-962b94746f466cf38b0dcc93ebf0703e.woff2",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\fonts\\eina-regular-962b94746f466cf38b0dcc93ebf0703e.woff2"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-regular-acbde8e732d1f85f5ed2303c2345bcb1.woff",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-regular-acbde8e732d1f85f5ed2303c2345bcb1.woff",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/fonts/eina-regular-acbde8e732d1f85f5ed2303c2345bcb1.woff",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\fonts\\eina-regular-acbde8e732d1f85f5ed2303c2345bcb1.woff"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-semibold-3c45702adeba381bbd0bc600c987febd.woff2",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-semibold-3c45702adeba381bbd0bc600c987febd.woff2",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/fonts/eina-semibold-3c45702adeba381bbd0bc600c987febd.woff2",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\fonts\\eina-semibold-3c45702adeba381bbd0bc600c987febd.woff2"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-semibold-69c64c5f739ca85578bcf7fd0825df86.woff",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-semibold-69c64c5f739ca85578bcf7fd0825df86.woff",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/fonts/eina-semibold-69c64c5f739ca85578bcf7fd0825df86.woff",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\fonts\\eina-semibold-69c64c5f739ca85578bcf7fd0825df86.woff"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\27.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\27.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/27.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\27.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\37.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\37.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/37.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\37.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\38.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\38.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/38.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\38.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\arrow.svg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\arrow.svg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/arrow.svg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\arrow.svg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/blog-1.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\blog-1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-2.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-2.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/blog-2.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\blog-2.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-3.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-3.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/blog-3.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\blog-3.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-4.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-4.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/blog-4.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\blog-4.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-5.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-5.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/blog-5.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\blog-5.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-6.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-6.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/blog-6.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\blog-6.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-d.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-d.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/blog-d.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\blog-d.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-d1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-d1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/blog-d1.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\blog-d1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\bread-1A.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\bread-1A.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/bread-1A.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\bread-1A.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\bread-1B.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\bread-1B.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/bread-1B.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\bread-1B.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\Breadcrumb-2.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\Breadcrumb-2.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/Breadcrumb-2.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\Breadcrumb-2.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\Breadcrumb-N.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\Breadcrumb-N.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/Breadcrumb-N.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\Breadcrumb-N.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cart-bag.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cart-bag.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cart-bag.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cart-bag.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-1.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-10.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-10.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-10.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-10.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-2.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-2.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-2.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-2.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-3.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-3.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-3.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-3.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-4.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-4.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-4.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-4.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-5.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-5.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-5.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-5.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-6.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-6.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-6.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-6.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-7.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-7.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-7.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-7.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-8.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-8.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-8.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-8.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-9.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-9.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/cate-9.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\cate-9.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\contact-m.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\contact-m.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/contact-m.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\contact-m.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\curacao.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\curacao.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/curacao.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\curacao.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\dushicart-logo-c.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\dushicart-logo-c.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/dushicart-logo-c.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\dushicart-logo-c.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\dushicart-logo-N.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\dushicart-logo-N.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/dushicart-logo-N.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\dushicart-logo-N.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\fav-ico.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\fav-ico.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/fav-ico.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\fav-ico.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\home-bnr.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\home-bnr.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/home-bnr.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\home-bnr.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/image-1.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\image-1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-2.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-2.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/image-2.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\image-2.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-3.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-3.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/image-3.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\image-3.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/img-1.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\img-1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-2.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-2.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/img-2.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\img-2.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-3.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-3.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/img-3.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\img-3.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\middle-bg.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\middle-bg.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/middle-bg.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\middle-bg.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\middle-bg-1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\middle-bg-1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/middle-bg-1.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\middle-bg-1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\mob-view.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\mob-view.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/mob-view.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\mob-view.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\netherlands.png",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\netherlands.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/netherlands.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\netherlands.png"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\privacy-i1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\privacy-i1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/privacy-i1.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\privacy-i1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\pro-8.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\pro-8.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/pro-8.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\pro-8.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\pro-9.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\pro-9.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/pro-9.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\pro-9.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/prol-1.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\prol-1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-2.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-2.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/prol-2.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\prol-2.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-3.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-3.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/prol-3.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\prol-3.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-4.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-4.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/prol-4.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\prol-4.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-5.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-5.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/prol-5.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\prol-5.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-6.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-6.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/prol-6.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\prol-6.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-7.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-7.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/prol-7.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\prol-7.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\shopping-basket.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\shopping-basket.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/shopping-basket.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\shopping-basket.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-1.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/slide-1.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\slide-1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-12.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-12.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/slide-12.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\slide-12.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-2.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-2.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/slide-2.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\slide-2.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\images\\us_flag.svg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\us_flag.svg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/images/us_flag.svg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\images\\us_flag.svg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\index.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\index.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/index.html",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\index.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\js\\script.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\js\\script.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/js/script.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\js\\script.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\js\\slick.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\js\\slick.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/js/slick.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\js\\slick.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\privacy-policy.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\privacy-policy.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/privacy-policy.html",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\privacy-policy.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\product-listing.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\product-listing.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/product-listing.html",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\product-listing.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\README.md",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\README.md",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/README.md",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\README.md"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\single-product.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\single-product.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/single-product.html",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\single-product.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\cshop-client\\terms&conditions.html",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\terms&conditions.html",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "cshop-client/terms&conditions.html",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\cshop-client\\terms&conditions.html"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\css\\site.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\css\\site.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\favicon.ico",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\favicon.ico",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\js\\site.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\js\\site.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3179,10 +3179,27 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\products\\images\\9337730b-7fa1-4621-b40c-48fcf0db90f1.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\5c24071e-956f-44e9-82c5-da205ff2e91a.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
+      "BasePath": "_content/CShop.WebApp",
+      "RelativePath": "products/images/5c24071e-956f-44e9-82c5-da205ff2e91a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\images\\5c24071e-956f-44e9-82c5-da205ff2e91a.png"
+    },
+    {
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\9337730b-7fa1-4621-b40c-48fcf0db90f1.jpg",
+      "SourceId": "CShop.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "products/images/9337730b-7fa1-4621-b40c-48fcf0db90f1.jpg",
       "AssetKind": "All",
@@ -3196,10 +3213,27 @@
       "OriginalItemSpec": "wwwroot\\products\\images\\9337730b-7fa1-4621-b40c-48fcf0db90f1.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\products\\images\\9f06a4f2-c28f-498e-98e9-163eff931745.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\9a2781bf-1dd6-45e9-a6fe-075551aab624.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
+      "BasePath": "_content/CShop.WebApp",
+      "RelativePath": "products/images/9a2781bf-1dd6-45e9-a6fe-075551aab624.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\images\\9a2781bf-1dd6-45e9-a6fe-075551aab624.png"
+    },
+    {
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\9f06a4f2-c28f-498e-98e9-163eff931745.jpg",
+      "SourceId": "CShop.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "products/images/9f06a4f2-c28f-498e-98e9-163eff931745.jpg",
       "AssetKind": "All",
@@ -3213,10 +3247,44 @@
       "OriginalItemSpec": "wwwroot\\products\\images\\9f06a4f2-c28f-498e-98e9-163eff931745.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\products\\images\\e3366ed3-823b-42a2-bb87-ccdabd2bb65d.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\c4cabe3f-44a1-43b0-b6ff-18d32782c29a.png",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
+      "BasePath": "_content/CShop.WebApp",
+      "RelativePath": "products/images/c4cabe3f-44a1-43b0-b6ff-18d32782c29a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\images\\c4cabe3f-44a1-43b0-b6ff-18d32782c29a.png"
+    },
+    {
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\c9e40131-a256-48d4-a764-f0f4236cdbd7.png",
+      "SourceId": "CShop.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
+      "BasePath": "_content/CShop.WebApp",
+      "RelativePath": "products/images/c9e40131-a256-48d4-a764-f0f4236cdbd7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\images\\c9e40131-a256-48d4-a764-f0f4236cdbd7.png"
+    },
+    {
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\e3366ed3-823b-42a2-bb87-ccdabd2bb65d.jpg",
+      "SourceId": "CShop.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "products/images/e3366ed3-823b-42a2-bb87-ccdabd2bb65d.jpg",
       "AssetKind": "All",
@@ -3230,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\products\\images\\e3366ed3-823b-42a2-bb87-ccdabd2bb65d.jpg"
     },
     {
-      "Identity": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\products\\images\\f03a3b38-3c79-4570-b7b2-9343e5a167fb.jpg",
+      "Identity": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\f03a3b38-3c79-4570-b7b2-9343e5a167fb.jpg",
       "SourceId": "CShop.WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\wwwroot\\",
+      "ContentRoot": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\wwwroot\\",
       "BasePath": "_content/CShop.WebApp",
       "RelativePath": "products/images/f03a3b38-3c79-4570-b7b2-9343e5a167fb.jpg",
       "AssetKind": "All",

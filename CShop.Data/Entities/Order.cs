@@ -18,7 +18,5 @@ namespace CShop.Data.Entities
         public int Status { set; get; }
 
         public List<OrderDetail> OrderDetails { get; set; }
-
-        public AppUser AppUser { get; set; }
     }
 }

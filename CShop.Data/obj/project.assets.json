@@ -2953,11 +2953,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\CShop.Data.csproj",
+      "projectUniqueName": "E:\\9. Internship\\cshop-solution\\CShop.Data\\CShop.Data.csproj",
       "projectName": "CShop.Data",
-      "projectPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\CShop.Data.csproj",
+      "projectPath": "E:\\9. Internship\\cshop-solution\\CShop.Data\\CShop.Data.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\obj\\",
+      "outputPath": "E:\\9. Internship\\cshop-solution\\CShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

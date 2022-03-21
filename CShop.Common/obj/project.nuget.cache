@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dFHBrqitU2wnZL83dBAcM71/qcrrAFqJws3ZJUrYC0Z9Z07nvRHQPIcWDO9Vt2Ar07JOVBaF6FZPrF6RCxZFHA==",
+  "dgSpecHash": "uj1C5kAuecqvRCw6PGaG5ZmEIfmH8Oyxo6lwFYFuQn2sGdxSLPjaT4snupvjvumn6e0KPyEEFlZwQwjCEJ1PcQ==",
   "success": true,
-  "projectFilePath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\CShop.Common.csproj",
+  "projectFilePath": "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

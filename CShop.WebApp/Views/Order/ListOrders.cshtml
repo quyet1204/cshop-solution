@@ -1,0 +1,159 @@
+﻿@model IEnumerable<CShop.Data.ViewModel.ListOrdersViewModel>
+
+@{
+    ViewData["Title"] = "Đơn hàng của bạn";
+}
+
+<div class="breadcrumb-main breadcrumb-single-product">
+    <div class="container h-100">
+        <div class="row h-100 position-relative">
+            <div class="col-sm-12">
+                <div class="common-breadcrumb">
+                    <span class="ssc-breadcrumb"><a href="#">Home</a></span><span class="divider"> / </span><span class="ssc-breadcrumb">Cart</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- breadcrumb End Here -->
+
+<div class="single-product-main mb-5">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-8 deal">
+                    <h5>Đơn Hàng #@item.OrderId</h5>
+                    <span>Đặt lúc: <b>@item.OrderDate.ToString("dd/MM/yyyy")</b> </span>
+                    @{
+                        switch (item.OrderStatus)
+                        {
+                            case 0:
+                                <span class="text-danger"><b>| Trạng thái: <b>Đã Hủy</b></b></span>
+                                break;
+                            case 1:
+                                <span class="text-danger"><b>| Trạng thái: <b>Chờ Xác Nhận</b></b></span>
+                                break;
+                            case 2:
+                                <span class="text-danger"><b>| Trạng thái: <b>Chờ Lấy Hàng</b></b></span>
+                                break;
+                            case 3:
+                                <span class="text-danger"><b>| Trạng thái: <b>Đang Giao</b></b></span>
+                                break;
+                            case 4:
+                                <span class="text-danger"><b>| Trạng thái: <b>Đã Giao</b></b></span>
+                                break;
+                            default:
+                                <span class="text-success"></span>
+                                break;
+                        }
+                    } |
+                    @if (item.OrderStatus == 1 || item.OrderStatus == 2)
+                    {
+                        <a href="/order/cancel-order/@item.OrderId" class="btn-sm btn-danger">Hủy đơn hàng</a>
+                    }
+                    @if (item.OrderStatus == 0)
+                    {
+                        <a href="/order/delete-order/@item.OrderId" class="text-danger">Xóa đơn hàng</a>
+                    }
+                    <br />
+                    <table class="shop_table cart mt-3" cellspacing="0">
+                        <tbody>
+                            @foreach (var order in item.Detail)
+                            {
+                                <tr class="cart_item targetfields">
+                                    <td class="product-thumbnail">
+                                        <a href="/product/item.ProductSlug"><img src="https://localhost:7196/products/images/@order.Product.UrlImage" alt="@order.Product.Name"></a>
+                                    </td>
+                                    <td class="et-product-details" data-title="Product">
+                                        <div class="row">
+                                            <div class="col-md-6 col-sm-12 product-name" data-title="@order.Product.Name">
+                                                <a href="/product/item.ProductSlug">@order.Product.Name</a>
+                                                <div class="product-price" data-title="Price">
+                                                    <span class="Price-amount amount"><bdi> @order.Product.Price </bdi><span class="Price-currencySymbol">đ</span> <i>(x @order.Quantity)</i></span>
+                                                </div>
+                                            </div>
+                                            <div class="product-subtotal col-md-6 col-6" data-title="Subtotal">
+                                                <span class="Price-amount amount"><bdi class="shoping__cart__total__@item.OrderId" id="total_item.CartId">@order.Price</bdi><span class="Price-currencySymbol"> đ</span></span>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                            <tr>
+                                <td>Tổng</td>
+                                <td class="text-right text-danger"><b id="total__@item.OrderId">0</b> đ</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <script type="text/javascript">
+                    $( document ).ready(function() {
+                          total_calculate(@item.OrderId);
+                      });
+                      function total_calculate(id) {
+                          var total = 0;
+                          //loop through subtotal
+                          $(".targetfields .shoping__cart__total__" + id).each(function() {
+                            //chck if not empty
+                            var value = $(this).text() != "" ? parseFloat($(this).text()) : 0;
+                            total += value; //add that value
+                          })
+                          //assign to total span
+                          $("#total__"+id).text(total.toFixed(0))
+                    }
+                </script>
+            }
+
+            <div class="col-md-4">
+                @*<div class="cart_totals">
+                    <h2>Cart totals</h2>
+                    <table class="shop_table shop_table_responsive" cellspacing="0">
+                    <tbody>
+                    <tr class="cart-subtotal">
+                    <th>Item Subtotal :</th>
+                    <td data-title="Subtotal"><span class="Price-amount amount"><bdi><span class="Price-currencySymbol">$</span>26.00</bdi></span></td>
+                    </tr>
+                    <tr class="cart-subtotal">
+                    <th>Shipping Fee :</th>
+                    <td data-title="Subtotal"><span class="Price-amount amount"><bdi><span class="Price-currencySymbol">$</span>2.00</bdi></span></td>
+                    </tr>
+
+                    <tr class="cart-subtotal">
+                    <th>Taxes (estimated) :</th>
+                    <td data-title="Subtotal"><span class="Price-amount amount"><bdi><span class="Price-currencySymbol">$</span>1.50</bdi></span></td>
+                    </tr>
+
+                    <tr class="order-total">
+                    <th>Total</th>
+                    <td data-title="Total"><strong><span class="Price-amount amount"><bdi><span class="Price-currencySymbol">$</span>29.50</bdi></span></strong> </td>
+                    </tr>
+                    </tbody>
+                    </table>
+                    <div class="wc-proceed-to-checkout">
+                    <a href="#" class="checkout-button button alt wc-forward">
+                    Proceed to checkout</a>
+                    </div>
+                    </div>*@
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .shop_table.cart tbody tr td {
+        padding: 10px 0;
+    }
+
+        .shop_table.cart tbody tr td.product-thumbnail img {
+            width: 60px;
+        }
+
+    .deal {
+        border: 1px solid #e4e4e4;
+        margin-bottom: 15px;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 6px 7px #ededed47;
+    }
+</style>

@@ -1,0 +1,91 @@
+﻿@model CShop.Data.Entities.Product
+
+@{
+    ViewData["Title"] = @Model.Name;
+}
+
+
+<div class="breadcrumb-main breadcrumb-single-product">
+  <div class="container h-100">
+    <div class="row h-100 position-relative">
+      <div class="col-sm-12">
+        <div class="common-breadcrumb"> 
+          <span class="ssc-breadcrumb"><a href="#">Home</a></span><span class="divider"> / </span><a href="#">Food</a><span class="divider"> / </span><span class="ssc-breadcrumb">@Model.Name</span>
+        </div> 
+      </div>
+    </div>
+  </div>
+</div><!-- breadcrumb End Here --> 
+
+
+<div class="single-product-main mb-4">
+  <div class="container">
+   <div class="row">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-body">
+          <div class="easyzoom easyzoom--overlay"> <a href="https://localhost:7196/products/images/@Model.UrlImage"> <img class="mainimage" src="https://localhost:7196/products/images/@Model.UrlImage" /></a> 
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6"> 
+      <div class="Product-summary">
+       <span class="inventory_status">In Stock</span>
+       <h2>@Model.Name</h2>
+       <p class="price"><span class="amount"><bdi>@Model.Price</bdi><span class="woocommerce-Price-currencySymbol">đ</span></span></p>
+       <div class="pro-decription">
+        <p>@Model.Description</p>
+
+        <div class="botton-group mt-4">
+          <div class="qtySelector">
+            <i class="fa fa-minus decreaseQty"></i>
+            <input type="text" class="qtyValue" value="1" />
+            <i class="fa fa-plus increaseQty"></i>
+          </div>
+          <button type="submit" name="add-to-cart" value="" class="single_add_to_cart_button button">Add to cart</button>
+          <p class="addto-wish"><a href="#"><i class="far fa-heart"></i> Add to Wishlist</a></p>
+        </div>
+
+        <div class="product_meta">
+          <span class="sku_wrapper">Tồn kho: <span class="sku">#@Model.Quantity</span></span>
+          <span class="id_wrapper">Giá bán: <a href="#" rel="tag">@Model.Price đ</a></span>
+          <span class="id_wrapper">Giá gốc: <a href="#" rel="tag">@Model.OriginalPrice đ</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div><!-- breadcrumb End Here --> 
+
+
+<div class="single-product-tabs-desc mt-4 mb-4">
+  <div class="container">
+
+   <div class="row">
+    <div class="col-sm-12">
+     <h2 class="line-title">Description</h2>
+     <div class="desc-layout-boxed">
+      <p>@Model.Details</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-12">
+     <h2 class="line-title">Reviews</h2>
+    <div class="reviews-inner text-center">
+      <div id="comments">
+        <p class="noreviews">There are no reviews yet.</p>
+        <p class="rev-btn text-center"><a href="">Add a Review</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</div><!-- breadcrumb End Here --> 
+

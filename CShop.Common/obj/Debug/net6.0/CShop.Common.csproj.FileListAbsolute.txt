@@ -12,3 +12,17 @@ D:\1. Work\3. INTERN_FPT\1. MockProject\mock-project-server\CShop\CShop.Common\o
 D:\1. Work\3. INTERN_FPT\1. MockProject\mock-project-server\CShop\CShop.Common\obj\Debug\net6.0\CShop.Common.pdb
 D:\1. Work\3. INTERN_FPT\1. MockProject\mock-project-server\CShop\CShop.Common\bin\Debug\net6.0\CShop.Common.runtimeconfig.json
 D:\1. Work\3. INTERN_FPT\1. MockProject\mock-project-server\CShop\CShop.Common\obj\Debug\net6.0\CShop.Common.genruntimeconfig.cache
+E:\9. Internship\cshop-solution\CShop.Common\bin\Debug\net6.0\CShop.Common.deps.json
+E:\9. Internship\cshop-solution\CShop.Common\bin\Debug\net6.0\CShop.Common.runtimeconfig.json
+E:\9. Internship\cshop-solution\CShop.Common\bin\Debug\net6.0\CShop.Common.dll
+E:\9. Internship\cshop-solution\CShop.Common\bin\Debug\net6.0\ref\CShop.Common.dll
+E:\9. Internship\cshop-solution\CShop.Common\bin\Debug\net6.0\CShop.Common.pdb
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\CShop.Common.csproj.AssemblyReference.cache
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\CShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\CShop.Common.AssemblyInfoInputs.cache
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\CShop.Common.AssemblyInfo.cs
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\CShop.Common.csproj.CoreCompileInputs.cache
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\CShop.Common.dll
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\ref\CShop.Common.dll
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\CShop.Common.pdb
+E:\9. Internship\cshop-solution\CShop.Common\obj\Debug\net6.0\CShop.Common.genruntimeconfig.cache

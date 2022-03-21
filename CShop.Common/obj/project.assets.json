@@ -1766,11 +1766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\CShop.Common.csproj",
+      "projectUniqueName": "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
       "projectName": "CShop.Common",
-      "projectPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\CShop.Common.csproj",
+      "projectPath": "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\obj\\",
+      "outputPath": "E:\\9. Internship\\cshop-solution\\CShop.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

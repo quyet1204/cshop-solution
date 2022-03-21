@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\CShop.WebApp.csproj": {}
+    "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\CShop.WebApp.csproj": {}
   },
   "projects": {
-    "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\CShop.Common.csproj": {
+    "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\CShop.Common.csproj",
+        "projectUniqueName": "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
         "projectName": "CShop.Common",
-        "projectPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\CShop.Common.csproj",
+        "projectPath": "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\obj\\",
+        "outputPath": "E:\\9. Internship\\cshop-solution\\CShop.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\CShop.Data.csproj": {
+    "E:\\9. Internship\\cshop-solution\\CShop.Data\\CShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\CShop.Data.csproj",
+        "projectUniqueName": "E:\\9. Internship\\cshop-solution\\CShop.Data\\CShop.Data.csproj",
         "projectName": "CShop.Data",
-        "projectPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\CShop.Data.csproj",
+        "projectPath": "E:\\9. Internship\\cshop-solution\\CShop.Data\\CShop.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\obj\\",
+        "outputPath": "E:\\9. Internship\\cshop-solution\\CShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,14 +168,14 @@
         }
       }
     },
-    "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\CShop.WebApp.csproj": {
+    "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\CShop.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\CShop.WebApp.csproj",
+        "projectUniqueName": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\CShop.WebApp.csproj",
         "projectName": "CShop.WebApp",
-        "projectPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\CShop.WebApp.csproj",
+        "projectPath": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\CShop.WebApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.WebApp\\obj\\",
+        "outputPath": "E:\\9. Internship\\cshop-solution\\CShop.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -192,11 +192,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\CShop.Common.csproj": {
-                "projectPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Common\\CShop.Common.csproj"
+              "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj": {
+                "projectPath": "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj"
               },
-              "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\CShop.Data.csproj": {
-                "projectPath": "D:\\1. Work\\3. INTERN_FPT\\1. MockProject\\mock-project-server\\CShop\\CShop.Data\\CShop.Data.csproj"
+              "E:\\9. Internship\\cshop-solution\\CShop.Data\\CShop.Data.csproj": {
+                "projectPath": "E:\\9. Internship\\cshop-solution\\CShop.Data\\CShop.Data.csproj"
               }
             }
           }
