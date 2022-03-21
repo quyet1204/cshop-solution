@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Dushicart</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/custom-style.css">
+  <link href="images/fav-ico.png" rel="icon" type="image/png" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+  <link as="font" crossorigin="anonymous" href="fonts/eina-regular-962b94746f466cf38b0dcc93ebf0703e.woff2" rel="preload" type="font/woff2" />
+  <link as="font" crossorigin="anonymous" href="fonts/eina-semibold-3c45702adeba381bbd0bc600c987febd.woff2" rel="preload" type="font/woff2" />
+  <link as="font" crossorigin="anonymous" href="fonts/eina-bold-df33d802f345a9037eb82e0c80e76547.woff2" rel="preload" type="font/woff2" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easyzoom@2.5.3/css/easyzoom.css" />
+
+
+</head>
+<body>
+
+ <header class="header-sticky header-main">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="/"><img src="images/dushicart-logo-N.png" class="img-fluid logo"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarToggler">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0)">Home</a>
+          </li>
+          <li class="nav-item dropdown has-megamenu">
+            <a class="nav-link dropdown-toggle" href="javascript:void(0)" data-toggle="dropdown" aria-expanded="false">Shop</a>
+            <div class="dropdown-menu megamenu" role="menu">
+              <ul class="mega-drop-bx">
+               <li><a href="#">Food</a></li>
+               <li><a href="#">Pantry</a></li>
+               <li><a href="#">Sea Foods</a></li>                
+               <li><a href="#">Baked Goods</a></li>
+               <li><a href="#">Dairy</a></li>
+               <li><a href="#">Fresh Produce</a></li>
+               <li><a href="#">Deli</a></li>  
+               <li><a href="#">Frozen Foods</a></li>  
+               <li><a href="#">Meat</a></li>            
+               <li><a href="#">Meat Alternative</a></li>
+               <li><a href="#">Beverages</a></li>
+               <li><a href="#">Alcohol</a></li>
+               <li><a href="#">Wine</a></li>
+               <li><a href="#">Liqour</a></li>
+               <li><a href="#">Beer</a></li>
+               <li><a href="#">Coffee</a></li>
+               <li><a href="#">Juice</a></li>
+               <li><a href="#">Soda</a></li>
+               <li><a href="#">Tea</a></li>
+               <li><a href="#">Water</a></li>
+               <li><a href="#">Organic Grocery</a></li>
+             </ul>
+           </div> <!-- dropdown-mega-menu.// -->
+         </li>
+         <li class="nav-item">
+          <a class="nav-link" href="javascript:void(0)">Help</a>
+        </li>
+      </ul>
+
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link log-in-btn" href="#" data-toggle="modal" data-target="#loginModal">Log in</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link sing-up-btn" data-toggle="modal" data-target="#signupModal" href="#">Sign Up</a>
+        </li>
+      </ul>
+
+    </div>
+  </nav>
+</div>
+</header>
+<!-- Header End Here --> 
+
+<div class="breadcrumb-main breadcrumb-single-product">
+  <div class="container h-100">
+    <div class="row h-100 position-relative">
+      <div class="col-sm-12">
+        <div class="common-breadcrumb"> 
+          <span class="ssc-breadcrumb"><a href="#">Home</a></span><span class="divider"> / </span><span class="ssc-breadcrumb">Checkout</span>
+        </div> 
+      </div>
+    </div>
+  </div>
+</div><!-- breadcrumb End Here --> 
+
+
+<div class="checkout-main mb-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 order-md-2 mb-4 mt-2">
+        <div class="checkout-review-order">
+          <h4 class="d-flex justify-content-between align-items-center mb-3">
+            <span>Your cart</span>
+          </h4>
+          <ul class="list-group pro-order mb-3">
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              <div class="d-flex align-items-center">
+                <img src="images/27.jpg">
+                <div class="et-product-desc">
+                Bolognese Tofu Souce <strong class="product-quantity">×&nbsp;1</strong>
+              </div>
+              </div>
+              <span class="text-muted">$12.00</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              <div class="d-flex align-items-center">
+                <img src="images/37.jpg">
+                <div class="et-product-desc">
+                Lupins Bean <strong class="product-quantity">×&nbsp;1</strong>
+              </div>
+              </div>
+              <span class="text-muted">$14.00</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+              <div class="d-flex align-items-center">
+                <img src="images/38.jpg">
+                <div class="et-product-desc">
+                Baked Giant Beans <strong class="product-quantity">×&nbsp;1</strong>
+              </div>
+              </div>
+              <span class="text-muted">$18.00</span>
+            </li>
+
+            <li class="list-group-item d-flex flex-column cart-price-summary">
+              <p><span>Subtotal</span><span class="sub-total">$44.00</span></p>
+              <p><span>Shipping</span><span class="shipping-price">$2.00</span></p>
+              <p><span>Taxes (estimated)</span><span class="shipping-price">$1.50</span></p>
+              <p class="total-line"><span>Total (USD)</span><span class="total-price">$47.50</span></p>
+            </li>
+          </ul>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-7 order-md-1">
+        <div class="checkout-customer-fields">
+       <div class="back-to-cart">
+        <a class="button outlined" href="#" title="Back to Cart"><i class="fas fa-chevron-left"></i>&nbsp; Back to Cart </a>
+      </div>
+
+      <h4 class="mb-3">Billing address</h4>
+      <form class="needs-validation" novalidate="">
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="firstName">First name</label>
+            <input type="text" class="form-control" id="firstName" placeholder="" value="" required="">
+            <div class="invalid-feedback">
+              Valid first name is required.
+            </div>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="lastName">Last name</label>
+            <input type="text" class="form-control" id="lastName" placeholder="" value="" required="">
+            <div class="invalid-feedback">
+              Valid last name is required.
+            </div>
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="username">Username</label>
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text">@</span>
+            </div>
+            <input type="text" class="form-control" id="username" placeholder="Username" required="">
+            <div class="invalid-feedback" style="width: 100%;">
+              Your username is required.
+            </div>
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="email">Email <span class="text-muted">(Optional)</span></label>
+          <input type="email" class="form-control" id="email" placeholder="you@example.com">
+          <div class="invalid-feedback">
+            Please enter a valid email address for shipping updates.
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="address">Address</label>
+          <input type="text" class="form-control" id="address" placeholder="1234 Main St" required="">
+          <div class="invalid-feedback">
+            Please enter your shipping address.
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="address2">Address 2 <span class="text-muted">(Optional)</span></label>
+          <input type="text" class="form-control" id="address2" placeholder="Apartment or suite">
+        </div>
+
+        <div class="row">
+          <div class="col-md-5 mb-3">
+            <label for="country">Country</label>
+            <select class="custom-select d-block w-100" id="country" required="">
+              <option value="">Choose...</option>
+              <option>United States</option>
+            </select>
+            <div class="invalid-feedback">
+              Please select a valid country.
+            </div>
+          </div>
+          <div class="col-md-4 mb-3">
+            <label for="state">State</label>
+            <select class="custom-select d-block w-100" id="state" required="">
+              <option value="">Choose...</option>
+              <option>California</option>
+            </select>
+            <div class="invalid-feedback">
+              Please provide a valid state.
+            </div>
+          </div>
+          <div class="col-md-3 mb-3">
+            <label for="zip">Zip</label>
+            <input type="text" class="form-control" id="zip" placeholder="" required="">
+            <div class="invalid-feedback">
+              Zip code required.
+            </div>
+          </div>
+        </div>
+        <hr class="mb-4">
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" class="custom-control-input" id="same-address">
+          <label class="custom-control-label" for="same-address">Shipping address is the same as my billing address</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+          <input type="checkbox" class="custom-control-input" id="save-info">
+          <label class="custom-control-label" for="save-info">Save this information for next time</label>
+        </div>
+        <hr class="mb-4">
+
+        <h4 class="mb-3">Payment</h4>
+
+        <div class="d-block my-3">
+          <div class="custom-control custom-radio">
+            <input id="credit" name="paymentMethod" type="radio" class="custom-control-input" checked="" required="">
+            <label class="custom-control-label" for="credit">Credit card</label>
+          </div>
+          <div class="custom-control custom-radio">
+            <input id="debit" name="paymentMethod" type="radio" class="custom-control-input" required="">
+            <label class="custom-control-label" for="debit">Debit card</label>
+          </div>
+          <div class="custom-control custom-radio">
+            <input id="paypal" name="paymentMethod" type="radio" class="custom-control-input" required="">
+            <label class="custom-control-label" for="paypal">Paypal</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="cc-name">Name on card</label>
+            <input type="text" class="form-control" id="cc-name" placeholder="Name" required="">
+            <small class="text-muted">Full name as displayed on card</small>
+            <div class="invalid-feedback">
+              Name on card is required
+            </div>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="cc-number">Credit card number</label>
+            <input type="text" class="form-control" id="cc-number" placeholder="1232 1232 1232 1232" required="">
+            <div class="invalid-feedback">
+              Credit card number is required
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-3 mb-3">
+            <label for="cc-expiration">Expiration</label>
+            <input type="text" class="form-control" id="cc-expiration" placeholder="06/26" required="">
+            <div class="invalid-feedback">
+              Expiration date required
+            </div>
+          </div>
+          <div class="col-md-3 mb-3">
+            <label for="cc-expiration">CVV</label>
+            <input type="text" class="form-control" id="cc-cvv" placeholder="***" required="">
+            <div class="invalid-feedback">
+              Security code required
+            </div>
+          </div>
+        </div>
+        <hr class="mb-4">
+        <button class="btn btn-lg btn-block checkout-btn" type="submit">Continue to checkout</button>
+      </form>
+    </div>
+    </div>
+  </div>
+</div>
+</div><!-- checkout-main End Here --> 
+
+
+<footer class="footer-main mt-4">
+  <div class="container">
+   <div class="row">
+     <div class="col-sm-12">    
+       <div class="common-footer top-ftr">
+         <div class="shopers-left-bx">
+          <div class="shopers-left-inner">
+           <p class="get-deliver-para"><img src="images/fav-ico.png" class="img-fluid"><strong>Get deliveries with Dushicart</strong></p>
+           <ul>
+            <li><a href=""><i class="fab fa-apple"></i> IOS</a></li>
+            <li><a href=""><i class="fab fa-google-play"></i> Android</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="shopers-right-bx">
+       <div class="footer-links-bx">
+        <h3>Top departments</h3>
+        <button aria-expanded="false" class="mob-tbtn"><h3>Top departments</h3><i class="fas fa-chevron-down"></i></button>
+        <div class="links-box">
+          <ul>
+            <li><a href="">Fresh Produce</a></li>
+            <li><a href="">Dairy Products</a></li>
+            <li><a href="">Meat</a></li>
+            <li><a href="">Meat Alternatives</a></li>
+            <li><a href="">Seafood</a></li>
+            <li><a href="">Pantry Food</a></li>
+            <li><a href="">Baked Goods</a></li>
+            <li><a href="">View all departments</a></li>                    
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-links-bx">
+        <h3>More departments</h3>
+        <button aria-expanded="false" class="mob-tbtn"><h3>More departments</h3><i class="fas fa-chevron-down"></i></button>
+        <div class="links-box">
+          <ul>
+            <li><a href="">Fresh Produce</a></li>
+            <li><a href="">Dairy Products</a></li>
+            <li><a href="">Meat</a></li>
+            <li><a href="">Meat Alternatives</a></li>
+            <li><a href="">Seafood</a></li>
+            <li><a href="">Pantry Food</a></li>
+            <li><a href="">Baked Goods</a></li>
+            <li><a href="">View all departments</a></li>                    
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-links-bx">
+        <h3>Dushicart programs</h3>
+        <button aria-expanded="false" class="mob-tbtn"><h3>Dushicart programs</h3><i class="fas fa-chevron-down"></i></button>
+        <div class="links-box">
+          <ul>
+            <li><a href="">Fresh Produce</a></li>
+            <li><a href="">Dairy Products</a></li>
+            <li><a href="">Meat</a></li>
+            <li><a href="">Meat Alternatives</a></li>
+            <li><a href="">Seafood</a></li>
+            <li><a href="">Pantry Food</a></li>
+            <li><a href="">Baked Goods</a></li>
+            <li><a href="">View all departments</a></li>                    
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-links-bx">
+        <h3>Get to know us</h3>
+        <button aria-expanded="false" class="mob-tbtn"><h3>Get to know us</h3><i class="fas fa-chevron-down"></i></button>
+        <div class="links-box">
+          <ul>
+            <li><a href="">Contact</a></li>
+            <li><a href="">Press</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Help</a></li>
+            <li><a href="">Careers</a></li>
+            <li><a href="">Privacy</a></li>
+            <li><a href="">Terms</a></li>
+            <li><a href="">Shop By Location</a></li>                    
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>  
+
+  <div class="common-footer bottom-ftr">
+   <div class="shopers-left-bx">
+    <div class="shopers-left-inner">
+     <p class="get-deliver-para"><img src="images/cart-bag.png" class="img-fluid" width="50px;"><strong>Become a Shopper</strong></p>
+     <ul>
+      <li><a href=""><i class="fab fa-apple"></i> IOS</a></li>
+      <li><a href=""><i class="fab fa-google-play"></i> Android</a></li>
+    </ul>
+  </div>
+</div>
+<div class="shopers-right-bx">
+ <div class="footer-links-bx">
+  <h3>Make money with us</h3>
+  <button aria-expanded="false" class="mob-tbtn"><h3>Make money with us</h3><i class="fas fa-chevron-down"></i></button>
+  <div class="links-box">
+    <ul>
+      <li><a href="">Fresh Produce</a></li>
+      <li><a href="">Dairy Products</a></li>
+      <li><a href="">Meat</a></li>
+      <li><a href="">Meat Alternatives</a></li>
+      <li><a href="">Seafood</a></li>
+      <li><a href="">Pantry Food</a></li>
+      <li><a href="">Baked Goods</a></li>
+      <li><a href="">View all departments</a></li>                    
+    </ul>
+  </div>
+</div>
+
+<div class="footer-links-bx">
+  <h3>Top cities</h3>
+  <button aria-expanded="false" class="mob-tbtn"><h3>Top cities</h3><i class="fas fa-chevron-down"></i></button>
+  <div class="links-box">
+    <ul>
+      <li><a href="">Fresh Produce</a></li>
+      <li><a href="">Dairy Products</a></li>
+      <li><a href="">Meat</a></li>
+      <li><a href="">Meat Alternatives</a></li>
+      <li><a href="">Seafood</a></li>
+      <li><a href="">Pantry Food</a></li>
+      <li><a href="">Baked Goods</a></li>
+      <li><a href="">View all departments</a></li>                    
+    </ul>
+  </div>
+</div>
+
+<div class="footer-links-bx">
+  <h3>More cities</h3>
+  <button aria-expanded="false" class="mob-tbtn"><h3>More cities</h3><i class="fas fa-chevron-down"></i></button>
+  <div class="links-box">
+    <ul>
+      <li><a href="">Fresh Produce</a></li>
+      <li><a href="">Dairy Products</a></li>
+      <li><a href="">Meat</a></li>
+      <li><a href="">Meat Alternatives</a></li>
+      <li><a href="">Seafood</a></li>
+      <li><a href="">Pantry Food</a></li>
+      <li><a href="">Baked Goods</a></li>
+      <li><a href="">View all departments</a></li>                    
+    </ul>
+  </div>
+</div>
+
+<div class="footer-links-bx">
+  <h3>Shopper help</h3>
+  <button aria-expanded="false" class="mob-tbtn"><h3>Shopper help</h3><i class="fas fa-chevron-down"></i></button>
+  <div class="links-box">
+    <ul>
+      <li><a href="">Contact</a></li>
+      <li><a href="">Press</a></li>
+      <li><a href="">Blog</a></li>
+      <li><a href="">Help</a></li>
+      <li><a href="">Careers</a></li>
+      <li><a href="">Privacy</a></li>
+      <li><a href="">Terms</a></li>
+      <li><a href="">Shop By Location</a></li>                    
+    </ul>
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="row legal-info"> 
+ <div class="col-sm-4">
+   <h5>Legal</h5>
+ </div>  
+ <div class="col-sm-4">
+  <ul>
+    <li><a href="">Terms of Use</a></li>
+    <li><a href="">Privacy Policy</a></li>
+  </ul>
+</div> 
+
+<div class="col-sm-4">
+  <div class="social">
+    <a href="#" class="fab fa-facebook-square"></a>
+    <a href="#" class="fab fa-twitter"></a>
+    <a href="#" class="fab fa-instagram"></a>
+    <a href="#" class="fab fa-pinterest"></a>
+  </div>
+</div> 
+
+<div class="col-sm-12">
+  <p class="btm-para">Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC.</p>
+</div>
+
+</div>
+</div>
+</footer>
+<!-- footer section End Here -->
+
+<!-- Login login modal -->
+<!-- Modal -->
+<div class="modal fade login-signin-modal" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>        
+      </div>
+      <div class="modal-main">
+        <div class="modal-body">
+         <h5 class="modal-title">Log in</h5>
+         <form>
+          <div class="form-group">
+            <input type="email" class="form-control" id="loginInputEmail" aria-describedby="emailHelp" placeholder="Enter Email">
+          </div>
+          <div class="form-group">
+            <input type="password" class="form-control" id="loginInputPassword" placeholder="Password">
+          </div>
+          <div class="form-group">
+            <p class="reset-pswd">Forgot password? <a href="#">Reset it</a></p>
+          </div>
+          <button type="submit" class="btn loginbtn">Log in</button>
+          <div class="modal-sepration"><div class="sepration-row"><span>or</span></div></div>
+
+          <button class="btn phone"><i class="fas fa-phone-alt"></i>Continue with Phone</button>
+          <button class="btn fb"><i class="fab fa-facebook-square"></i>Continue with  Facebook</button>
+          <button class="btn google"><i class="fab fa-google"></i>Continue with Google</button>
+
+        </form>
+      </div>
+
+      <div class="modal-footer">
+        <p class="css-x8m6lp">Don’t have an account?</p>
+        <button type="button" class="btn sing-up-link">Sign Up</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<!-- Sign up login modal -->
+<!-- Modal -->
+<div class="modal fade login-signin-modal" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="signupModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>        
+      </div>
+      <div class="modal-main">
+        <div class="modal-body">
+         <h5 class="modal-title">Sign Up</h5>
+         <form>
+          <div class="form-group">
+            <input type="email" class="form-control" id="signupInputEmail" aria-describedby="emailHelp" placeholder="Enter Email">
+          </div>
+          <div class="form-group">
+            <p class="legal-info-md">By continuing, you agree to our <a href="#">Terms of Service </a> & <a href="#">Privacy Policy</a></p>
+          </div>
+          <button type="submit" class="btn loginbtn">Countinue</button>
+          <div class="modal-sepration"><div class="sepration-row"><span>or</span></div></div>
+
+          <button class="btn phone"><i class="fas fa-phone-alt"></i>Continue with Phone</button>
+          <button class="btn fb"><i class="fab fa-facebook-square"></i>Continue with  Facebook</button>
+          <button class="btn google"><i class="fab fa-google"></i>Continue with Google</button>
+
+        </form>
+      </div>
+
+      <div class="modal-footer">
+        <p class="css-x8m6lp">Already have an account?</p>
+        <button type="button" class="btn sing-up-link">Log in</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<!-- js start Here -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/easyzoom@2.5.3/src/easyzoom.js"></script>
+
+
+<script type="text/javascript">
+  var minVal = 1, maxVal = 20; // Set Max and Min values
+// Increase product quantity on cart page
+$(".increaseQty").on('click', function(){
+  var $parentElm = $(this).parents(".qtySelector");
+  $(this).addClass("clicked");
+  setTimeout(function(){
+    $(".clicked").removeClass("clicked");
+  },100);
+  var value = $parentElm.find(".qtyValue").val();
+  if (value < maxVal) {
+    value++;
+  }
+  $parentElm.find(".qtyValue").val(value);
+});
+// Decrease product quantity on cart page
+$(".decreaseQty").on('click', function(){
+  var $parentElm = $(this).parents(".qtySelector");
+  $(this).addClass("clicked");
+  setTimeout(function(){
+    $(".clicked").removeClass("clicked");
+  },100);
+  var value = $parentElm.find(".qtyValue").val();
+  if (value > 1) {
+    value--;
+  }
+  $parentElm.find(".qtyValue").val(value);
+});
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".mob-tbtn").click(function(){
+      $(this).next().toggle(300);
+      $(this).toggleClass("active");
+    });
+
+  });
+</script>
+</body>
+</html> 

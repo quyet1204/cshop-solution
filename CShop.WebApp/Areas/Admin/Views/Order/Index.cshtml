@@ -1,0 +1,75 @@
+﻿@model IEnumerable<CShop.Data.ViewModel.ListOrdersViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="wrapper">
+		<div class="row">
+			<div class="col-12 col-m-12 col-sm-12">
+				<div class="card">
+					<div class="card-header">
+						<h3>
+							Table
+						</h3>
+						<i class="fas fa-ellipsis-h"></i>
+					</div>
+					<div class="card-content">
+						<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShipName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShipAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShipEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShipPhoneNumber)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShipName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShipAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShipEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShipPhoneNumber)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+

@@ -1,0 +1,128 @@
+﻿@model IEnumerable<CShop.Data.Entities.Product>
+
+
+<div class="breadcrumb-main">
+  <div class="breadcrumb-inner">
+    <img src="/cshop-client/images/middle-bg-1.jpg" class="img-fluid">
+  </div> 
+  <div class="common-breadcrumb">
+    <h2>
+        @if (ViewBag.Category == null)
+                        {
+                            <span>Sản phẩm mới nhất</span>
+                        }
+                        else
+                        {
+                            <span>@ViewBag.Category.Name</span>
+                        } 
+    </h2>  
+    <span class="ssc-breadcrumb"><a href="/">Home</a></span><span class="divider"> / </span><span class="ssc-breadcrumb">Product</span>
+  </div> 
+</div><!-- breadcrumb End Here --> 
+
+
+<div id="main-content" class="product-listing-main mt-5 mb-5">
+  <div class="container">
+    <div class="row">
+     <div class="col-sm-4 col-md-3">
+      <div class="side-nav-categories">
+        <form class="search-group" method="get" asp-action="Index">
+          <div class="form-outline">
+            <input type="search" id="form1" class="form-control" placeholder="Search" name="q" value="@if(ViewBag.q!= null) {<text>@ViewBag.q</text>}" />
+            <input type="hidden" name="catelog" value="@if(ViewBag.Category != null) {<text>@ViewBag.Category.Slug</text>}">
+          </div>
+          <button type="submit" class="btn btn-primary">
+            <i class="fas fa-search"></i>
+          </button>
+        </form>
+        <div class="box-content box-category">      
+          <ul>
+              @foreach (var category in ViewBag.ListCategories)
+             {
+                 <li><a href="/product?catelog=@category.Slug" class="cat">@category.Name <i class="fas fa-chevron-right"></i></a></li>
+             }
+          </ul>      
+        </div> 
+      </div>
+    </div>
+
+    <div class="col-sm-8 col-md-9 pro-list"> 
+      <div class="row">
+
+          @foreach (var item in Model)
+         {
+        <div class="col-sm-6 col-md-4">
+          <div class="product-box"> 
+            <a href="/@item.Slug" class="product-link">
+             <img src="https://localhost:7196/products/images/@item.UrlImage" class="img-fluid">
+             <h5>@item.Name</h5> 
+             <p >@item.Price</p>
+           </a>  
+           <a onclick="onSubmit(@item.Id)" class="button add_to_cart_button" style="cursor: pointer">Add to cart</a>
+         </div>
+         <div id="cartForm_@item.Id" style="display: none;">
+                    <input name="productId" value="@item.Id" id="productId_@item.Id" />
+                    <input name="quantity" value="1" id="quantity_@item.Id" />
+                    <input name="price" value="@item.Price" id="price_@item.Id" />
+                </div>
+       </div>
+         }
+       
+
+</div>
+</div>
+
+</div>
+</div>
+</div><!-- category-main End Here -->        
+
+<script type="text/javascript">
+function onSubmit(id) {
+    	var productId = $("#productId_" + id).val();
+    	var price = $("#price_" + id).val();
+    	var quantity = $("#quantity_" + id).val();
+    	var data = {
+    		'productId': productId,
+    		'price': price,
+    		'quantity': quantity
+    	}
+        var isIncrease = false;
+        $.ajax({
+    		type: 'GET',
+    		url: '/cart/check-item/' + id,
+    		contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+    		success: function(res) {
+                  console.log(res);
+                  if(res == true) {
+                      isIncrease = true;
+                         
+                  } else {
+                      isIncrease = false;
+                  }
+    						
+    		},
+            error: function(error) {
+                    console.log('Failed ');
+            }
+       })
+    	$.ajax({
+    		type: 'POST',
+    		url: '/cart/add-to-cart',
+    		contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+    		data: data,
+    		success: function(result) {
+    			var newCartNum = parseInt($("#cartNum").text()) + 1;
+    			if(isIncrease) {
+                    $("#cartNum").text(newCartNum);
+                }
+            },
+    		error: function(error) {
+    			console.log('Failed ');
+    			console.log(error.status);
+    			if (error.status == 401) {
+    					window.location.href = "/dang-nhap";
+    			}
+    		}
+    	})
+}
+</script>

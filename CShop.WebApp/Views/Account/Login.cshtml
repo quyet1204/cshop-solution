@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Đăng nhập";
+}
+<div id="main-content" class="product-listing-main mt-5 mb-5 login-signin-modal">
+    <div class="container">
+        <h4>Đăng nhập</h4>
+         <div class="col-md-4 center" style="margin: 0 auto;">
+             <form action="/dang-nhap" method="post">
+          <div class="form-group">
+            <input type="email" class="form-control" id="loginInputEmail" aria-describedby="emailHelp" placeholder="Enter Email" name="Email">
+          </div>
+          <div class="form-group">
+            <input type="password" class="form-control" id="loginInputPassword" placeholder="Password" name="Password">
+          </div>
+          <div class="form-group">
+            <p class="reset-pswd">Forgot password? <a href="#">Reset it</a></p>
+          </div>
+          <button type="submit" class="btn loginbtn">Đăng Nhập</button>
+          <div class="modal-sepration"><div class="sepration-row"><span>or</span></div></div>
+
+          <button class="btn phone"><i class="fas fa-phone-alt"></i>Continue with Phone</button>
+          <button class="btn fb"><i class="fab fa-facebook-square"></i>Continue with  Facebook</button>
+          <button class="btn google"><i class="fab fa-google"></i>Continue with Google</button>
+
+        </form>
+         </div>
+    </div>
+</div>
