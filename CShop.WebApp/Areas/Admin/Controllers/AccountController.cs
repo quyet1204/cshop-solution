@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CShop.WebApp.Areas.Admin.Controllers
 {
+    [Area("Admin")]
+    [Route("admin")]
+    [Route("Account")]
     public class AccountController : Controller
     {
         private readonly UserManager<AppUser> userManager;

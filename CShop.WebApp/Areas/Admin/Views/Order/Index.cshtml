@@ -7,69 +7,120 @@
 <h1>Index</h1>
 
 <div class="wrapper">
+    <div>
+        <a href="/admin/order/tat_ca">Tất cả</a> | 
+        <a href="/admin/order/cho_xac_nhan">Chờ xác nhận</a> | 
+        <a href="/admin/order/cho_lay_hang">Chờ lấy hàng</a> | 
+        <a href="/admin/order/dang_giao">Đang giao</a> | 
+        <a href="/admin/order/da_giao">Đã giao</a> | 
+        <a href="/admin/order/da_huy">Đã huỷ</a> | 
+    </div>
+
 		<div class="row">
 			<div class="col-12 col-m-12 col-sm-12">
 				<div class="card">
 					<div class="card-header">
 						<h3>
-							Table
+							Tất cả đơn hàng
 						</h3>
 						<i class="fas fa-ellipsis-h"></i>
 					</div>
 					<div class="card-content">
-						<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.OrderDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UserId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ShipName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ShipAddress)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ShipEmail)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ShipPhoneNumber)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.OrderDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UserId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ShipName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ShipAddress)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ShipEmail)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ShipPhoneNumber)
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+						<table>
+                            <thead>
+                                <tr>
+                                    <td>Đơn Hàng</td>
+                                    <td>Ngày đặt hàng</td>
+                                    <td>Trạng thái</td>
+                                    <td></td>
+                                </tr>
+                            </thead>
+							<tbody>
+								@foreach (var item in Model) {
+								<tr>
+									<td>
+										#@item.OrderId
+									</td>
+									<td>
+										@item.OrderDate.ToString("dd/MM/yyyy")
+									</td>
+									<td>
+										@{
+                                                switch (item.OrderStatus)
+                                                {
+                                                    case 0:
+                                                        <span class="text-danger"><b>Đã Hủy</b></span>
+                                                        break;
+                                                    case 1:
+                                                        <span class="text-success"><b>Chờ Xác Nhận</b></span>
+                                                        break;
+                                                    case 2:
+                                                        <span class="text-success"><b>Chờ Lấy Hàng</b></span>
+                                                        break;
+                                                    case 3:
+                                                        <span class="text-success"><b>Đang Giao</b></span>
+                                                        break;
+                                                    case 4:
+                                                        <span class="text-success"><b>Đã Giao</b></span>
+                                                        break;
+                                                    default:
+                                                        <span class="text-success"></span>
+                                                        break;
+                                                }
+                                            }
+									</td>
+                                    <td></td>
+								</tr>
+								@foreach (var order in item.Detail) {
+									<tr class="targetfields">
+                                            <td>
+                                                <img src="https://localhost:7196/products/images/@order.Product.UrlImage" alt="@order.Product.Name" style="width: 50px;">
+                                            </td>
+                                            <td>@order.Product.Name</td>
+                                            <td>@order.Product.Price <i class="pl-3" style="font-weight: 400">(x @order.Quantity)</i></td>
+                                            <td class="shoping__cart__total__@item.OrderId">@order.Price</td>
+                                        </tr>
+								    }
+                                   <tr>
+                                    <th></th>
+                                    <th></th>
+                                    <th>Tổng tiền</th>
+                                    <th>
+                                        <span class="text-danger">
+                                                <b id="total__@item.OrderId">0</b>
+                                            </span>
+                                            <script src="\lib\jquery\dist\jquery.min.js"></script>
+                                        <script type="text/javascript">
+                                                $( document ).ready(function() {
+                                                      total_calculate(@item.OrderId);
+                                                  });
+                                                  function total_calculate(id) {
+                                                      var total = 0;
+                                                      //loop through subtotal
+                                                      $(".targetfields .shoping__cart__total__" + id).each(function() {
+                                                        //chck if not empty
+                                                        var value = $(this).text() != "" ? parseFloat($(this).text()) : 0;
+                                                        total += value; //add that value
+                                                      })
+                                                      //assign to total span
+                                                      $("#total__"+id).text(total.toFixed(0))
+                                                }
+                                            </script>
+                                    </th>
+
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+								}
+                                
+							</tbody>
+						</table>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-
-

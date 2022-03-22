@@ -1,128 +1,50 @@
-﻿@model CShop.Data.Entities.AppUser
-
-@{
-    ViewData["Title"] = "Login";
+﻿@{
+    ViewData["Title"] = "Đăng Nhập Admin";
+    Layout = "/Areas/Admin/Views/Shared/_LoginLayout.cshtml";
 }
 
-<h1>Login</h1>
-
-<h4>AppUser</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Login">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="FirstName" class="control-label"></label>
-                <input asp-for="FirstName" class="form-control" />
-                <span asp-validation-for="FirstName" class="text-danger"></span>
+<div class="auth-wrapper">
+        <div class="auth-container">
+            <div class="auth-action-left">
+                <div class="auth-form-outer">
+                    <h2 class="auth-form-title">
+                        Sign In
+                    </h2>
+                    <div class="auth-external-container">
+                        <div class="auth-external-list">
+                            <ul>
+                                <li><a href="#"><i class="fa fa-google"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                        <p class="auth-sgt">or sign in with:</p>
+                    </div>
+                    <form class="login-form" method="post" asp-action="login" asp-controller="account" asp-area="admin">
+                        <input type="email" class="auth-form-input" placeholder="Email" name="Email">
+                        <div class="input-icon">
+                            <input type="password" class="auth-form-input" placeholder="Password" name="Password">
+                            <i class="fa fa-eye show-password"></i>
+                        </div>
+                        <label class="btn active">
+                            <input type="checkbox" name='email1' checked>
+                            <i class="fa fa-square-o"></i><i class="fa fa-check-square-o"></i> 
+                            <span> Remember password.</span>
+                        </label>
+                        <div class="footer-action">
+                            <input type="submit" value="Sign In" class="auth-submit">
+                        </div>
+                    </form>
+                    <div class="auth-forgot-password">
+                        <a href="#">Forfot Password</a>
+                    </div>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="LastName" class="control-label"></label>
-                <input asp-for="LastName" class="form-control" />
-                <span asp-validation-for="LastName" class="text-danger"></span>
+            <div class="auth-action-right">
+                <div class="auth-image">
+                    <img src="/login-ui2/assets/vector.jpg" alt="login">
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="FullName" class="control-label"></label>
-                <input asp-for="FullName" class="form-control" />
-                <span asp-validation-for="FullName" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="DateOfBirth" class="control-label"></label>
-                <input asp-for="DateOfBirth" class="form-control" />
-                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Address" class="control-label"></label>
-                <input asp-for="Address" class="form-control" />
-                <span asp-validation-for="Address" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="UrlAvatar" class="control-label"></label>
-                <input asp-for="UrlAvatar" class="form-control" />
-                <span asp-validation-for="UrlAvatar" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="UserName" class="control-label"></label>
-                <input asp-for="UserName" class="form-control" />
-                <span asp-validation-for="UserName" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="NormalizedUserName" class="control-label"></label>
-                <input asp-for="NormalizedUserName" class="form-control" />
-                <span asp-validation-for="NormalizedUserName" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Email" class="control-label"></label>
-                <input asp-for="Email" class="form-control" />
-                <span asp-validation-for="Email" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="NormalizedEmail" class="control-label"></label>
-                <input asp-for="NormalizedEmail" class="form-control" />
-                <span asp-validation-for="NormalizedEmail" class="text-danger"></span>
-            </div>
-            <div class="form-group form-check">
-                <label class="form-check-label">
-                    <input class="form-check-input" asp-for="EmailConfirmed" /> @Html.DisplayNameFor(model => model.EmailConfirmed)
-                </label>
-            </div>
-            <div class="form-group">
-                <label asp-for="PasswordHash" class="control-label"></label>
-                <input asp-for="PasswordHash" class="form-control" />
-                <span asp-validation-for="PasswordHash" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="SecurityStamp" class="control-label"></label>
-                <input asp-for="SecurityStamp" class="form-control" />
-                <span asp-validation-for="SecurityStamp" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ConcurrencyStamp" class="control-label"></label>
-                <input asp-for="ConcurrencyStamp" class="form-control" />
-                <span asp-validation-for="ConcurrencyStamp" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="PhoneNumber" class="control-label"></label>
-                <input asp-for="PhoneNumber" class="form-control" />
-                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
-            </div>
-            <div class="form-group form-check">
-                <label class="form-check-label">
-                    <input class="form-check-input" asp-for="PhoneNumberConfirmed" /> @Html.DisplayNameFor(model => model.PhoneNumberConfirmed)
-                </label>
-            </div>
-            <div class="form-group form-check">
-                <label class="form-check-label">
-                    <input class="form-check-input" asp-for="TwoFactorEnabled" /> @Html.DisplayNameFor(model => model.TwoFactorEnabled)
-                </label>
-            </div>
-            <div class="form-group">
-                <label asp-for="LockoutEnd" class="control-label"></label>
-                <input asp-for="LockoutEnd" class="form-control" />
-                <span asp-validation-for="LockoutEnd" class="text-danger"></span>
-            </div>
-            <div class="form-group form-check">
-                <label class="form-check-label">
-                    <input class="form-check-input" asp-for="LockoutEnabled" /> @Html.DisplayNameFor(model => model.LockoutEnabled)
-                </label>
-            </div>
-            <div class="form-group">
-                <label asp-for="AccessFailedCount" class="control-label"></label>
-                <input asp-for="AccessFailedCount" class="form-control" />
-                <span asp-validation-for="AccessFailedCount" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+        </div>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}

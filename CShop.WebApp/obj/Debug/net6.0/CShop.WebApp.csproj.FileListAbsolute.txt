@@ -279,7 +279,6 @@ E:\9. Internship\cshop-solution\CShop.WebApp\bin\Debug\net6.0\CShop.WebApp.exe
 E:\9. Internship\cshop-solution\CShop.WebApp\bin\Debug\net6.0\CShop.WebApp.deps.json
 E:\9. Internship\cshop-solution\CShop.WebApp\bin\Debug\net6.0\CShop.WebApp.runtimeconfig.json
 E:\9. Internship\cshop-solution\CShop.WebApp\bin\Debug\net6.0\CShop.WebApp.dll
-E:\9. Internship\cshop-solution\CShop.WebApp\bin\Debug\net6.0\ref\CShop.WebApp.dll
 E:\9. Internship\cshop-solution\CShop.WebApp\bin\Debug\net6.0\CShop.WebApp.pdb
 E:\9. Internship\cshop-solution\CShop.WebApp\bin\Debug\net6.0\Humanizer.dll
 E:\9. Internship\cshop-solution\CShop.WebApp\bin\Debug\net6.0\MessagePack.dll
@@ -546,3 +545,4 @@ E:\9. Internship\cshop-solution\CShop.WebApp\obj\Debug\net6.0\CShop.WebApp.dll
 E:\9. Internship\cshop-solution\CShop.WebApp\obj\Debug\net6.0\ref\CShop.WebApp.dll
 E:\9. Internship\cshop-solution\CShop.WebApp\obj\Debug\net6.0\CShop.WebApp.pdb
 E:\9. Internship\cshop-solution\CShop.WebApp\obj\Debug\net6.0\CShop.WebApp.genruntimeconfig.cache
+E:\9. Internship\cshop-solution\CShop.WebApp\obj\Debug\net6.0\refint\CShop.WebApp.dll

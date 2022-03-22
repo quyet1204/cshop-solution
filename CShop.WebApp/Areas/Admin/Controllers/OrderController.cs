@@ -19,7 +19,7 @@ namespace CShop.WebApp.Areas.Admin.Controllers
 
         [Route("index/{status}")]
         [Route("{status}")]
-        public async Task<IActionResult> Index(int status)
+        public async Task<IActionResult> Index(string status)
         {
             var item = (from order in _context.Orders
                         orderby order.Id descending
@@ -50,22 +50,25 @@ namespace CShop.WebApp.Areas.Admin.Controllers
             var items = await item.ToListAsync();
             switch (status)
             {
-                case 0:
+                case "da_huy":
                     items = await item.Where(p => p.OrderStatus == 0).ToListAsync();
                     break;
-                case 1:
+                case "cho_xac_nhan":
                     items = await item.Where(p => p.OrderStatus == 1).ToListAsync();
                     break;
-                case 2:
+                case "cho_lay_hang":
                     items = await item.Where(p => p.OrderStatus == 2).ToListAsync();
                     break;
-                case 3:
+                case "dang_giao":
                     items = await item.Where(p => p.OrderStatus == 3).ToListAsync();
                     break;
-                case 4:
+                case "da_giao":
                     items = await item.Where(p => p.OrderStatus == 4).ToListAsync();
                     break;
-                case 5:
+                case "":
+                    items = await item.ToListAsync();
+                    break;
+                case "tat_ca":
                     items = await item.ToListAsync();
                     break;
                 default:
