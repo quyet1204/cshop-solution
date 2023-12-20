@@ -26,3 +26,17 @@ E:\9. Internship\cshop-solution\CShop.Data\obj\Debug\net6.0\ref\CShop.Data.dll
 E:\9. Internship\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.pdb
 E:\9. Internship\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.genruntimeconfig.cache
 E:\9. Internship\cshop-solution\CShop.Data\obj\Debug\net6.0\refint\CShop.Data.dll
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\bin\Debug\net6.0\CShop.Data.deps.json
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\bin\Debug\net6.0\CShop.Data.runtimeconfig.json
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\bin\Debug\net6.0\CShop.Data.dll
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\bin\Debug\net6.0\CShop.Data.pdb
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.csproj.AssemblyReference.cache
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.AssemblyInfoInputs.cache
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.AssemblyInfo.cs
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.csproj.CoreCompileInputs.cache
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.dll
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\refint\CShop.Data.dll
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.pdb
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\CShop.Data.genruntimeconfig.cache
+D:\Tailieu\DTPM\cshop-solution\cshop-solution\CShop.Data\obj\Debug\net6.0\ref\CShop.Data.dll

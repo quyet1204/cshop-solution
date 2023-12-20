@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CShop.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CShop.WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\.gitattributes",
+      "PackagePath": "staticwebassets\\cshop-admin\\.gitattributes"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\LICENSE",
+      "PackagePath": "staticwebassets\\cshop-admin"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\README.md",
+      "PackagePath": "staticwebassets\\cshop-admin\\README.md"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-black.png",
+      "PackagePath": "staticwebassets\\cshop-admin\\assets\\AT-pro-black.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-logo.png",
+      "PackagePath": "staticwebassets\\cshop-admin\\assets\\AT-pro-logo.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\AT-pro-white.png",
+      "PackagePath": "staticwebassets\\cshop-admin\\assets\\AT-pro-white.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\assets\\tuat.jpg",
+      "PackagePath": "staticwebassets\\cshop-admin\\assets\\tuat.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\cshop-admin\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\index.html",
+      "PackagePath": "staticwebassets\\cshop-admin\\index.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\index.js",
+      "PackagePath": "staticwebassets\\cshop-admin\\index.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\preview\\Screenshot_1.jpg",
+      "PackagePath": "staticwebassets\\cshop-admin\\preview\\Screenshot_1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\preview\\Screenshot_3.jpg",
+      "PackagePath": "staticwebassets\\cshop-admin\\preview\\Screenshot_3.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-admin\\style.css",
+      "PackagePath": "staticwebassets\\cshop-admin\\style.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\README.md",
+      "PackagePath": "staticwebassets\\cshop-client\\README.md"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\blog-detail.html",
+      "PackagePath": "staticwebassets\\cshop-client\\blog-detail.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\blog.html",
+      "PackagePath": "staticwebassets\\cshop-client\\blog.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\cart.html",
+      "PackagePath": "staticwebassets\\cshop-client\\cart.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\category.html",
+      "PackagePath": "staticwebassets\\cshop-client\\category.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\checkout.html",
+      "PackagePath": "staticwebassets\\cshop-client\\checkout.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\contact-us.html",
+      "PackagePath": "staticwebassets\\cshop-client\\contact-us.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\css\\custom-style.css",
+      "PackagePath": "staticwebassets\\cshop-client\\css\\custom-style.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\cshop-client\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\css\\slick.css",
+      "PackagePath": "staticwebassets\\cshop-client\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\faq's.html",
+      "PackagePath": "staticwebassets\\cshop-client\\faq's.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-bold-df33d802f345a9037eb82e0c80e76547.woff2",
+      "PackagePath": "staticwebassets\\cshop-client\\fonts\\eina-bold-df33d802f345a9037eb82e0c80e76547.woff2"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-bold-e952eb8c3c7699a699420a4a4dc6ed6b.woff",
+      "PackagePath": "staticwebassets\\cshop-client\\fonts\\eina-bold-e952eb8c3c7699a699420a4a4dc6ed6b.woff"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-regular-962b94746f466cf38b0dcc93ebf0703e.woff2",
+      "PackagePath": "staticwebassets\\cshop-client\\fonts\\eina-regular-962b94746f466cf38b0dcc93ebf0703e.woff2"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-regular-acbde8e732d1f85f5ed2303c2345bcb1.woff",
+      "PackagePath": "staticwebassets\\cshop-client\\fonts\\eina-regular-acbde8e732d1f85f5ed2303c2345bcb1.woff"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-semibold-3c45702adeba381bbd0bc600c987febd.woff2",
+      "PackagePath": "staticwebassets\\cshop-client\\fonts\\eina-semibold-3c45702adeba381bbd0bc600c987febd.woff2"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\fonts\\eina-semibold-69c64c5f739ca85578bcf7fd0825df86.woff",
+      "PackagePath": "staticwebassets\\cshop-client\\fonts\\eina-semibold-69c64c5f739ca85578bcf7fd0825df86.woff"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\27.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\27.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\37.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\37.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\38.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\38.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\Breadcrumb-2.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\Breadcrumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\Breadcrumb-N.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\Breadcrumb-N.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\arrow.svg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\arrow.svg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-d.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\blog-d.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\blog-d1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\blog-d1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\bread-1A.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\bread-1A.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\bread-1B.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\bread-1B.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cart-bag.png",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cart-bag.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-10.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-10.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-2.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-3.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-3.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-4.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-4.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-5.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-5.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-6.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-6.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-7.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-7.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-8.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-8.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cate-9.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cate-9.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\contact-m.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\contact-m.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\cshop.png",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\cshop.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\curacao.png",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\curacao.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\dushicart-logo-N.png",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\dushicart-logo-N.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\dushicart-logo-c.png",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\dushicart-logo-c.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\fav-ico.png",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\fav-ico.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\home-bnr.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\home-bnr.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\image-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-2.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\image-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\image-3.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\image-3.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-2.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\img-3.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\middle-bg-1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\middle-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\middle-bg.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\middle-bg.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\mob-view.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\mob-view.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\netherlands.png",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\netherlands.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\privacy-i1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\privacy-i1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\pro-8.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\pro-8.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\pro-9.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\pro-9.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\prol-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-2.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\prol-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-3.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\prol-3.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-4.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\prol-4.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-5.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\prol-5.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-6.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\prol-6.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\prol-7.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\prol-7.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\shopping-basket.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\shopping-basket.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\slide-1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-12.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\slide-12.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\slide-2.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\images\\us_flag.svg",
+      "PackagePath": "staticwebassets\\cshop-client\\images\\us_flag.svg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\index.html",
+      "PackagePath": "staticwebassets\\cshop-client\\index.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\js\\script.js",
+      "PackagePath": "staticwebassets\\cshop-client\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\js\\slick.js",
+      "PackagePath": "staticwebassets\\cshop-client\\js\\slick.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\privacy-policy.html",
+      "PackagePath": "staticwebassets\\cshop-client\\privacy-policy.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\product-listing.html",
+      "PackagePath": "staticwebassets\\cshop-client\\product-listing.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\single-product.html",
+      "PackagePath": "staticwebassets\\cshop-client\\single-product.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\cshop-client\\terms&conditions.html",
+      "PackagePath": "staticwebassets\\cshop-client\\terms&conditions.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\login-ui2\\assets\\vector.jpg",
+      "PackagePath": "staticwebassets\\login-ui2\\assets\\vector.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\login-ui2\\coded by quochieu.com.txt",
+      "PackagePath": "staticwebassets\\login-ui2\\coded by quochieu.com.txt"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\login-ui2\\css\\style.css",
+      "PackagePath": "staticwebassets\\login-ui2\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\login-ui2\\js\\common.js",
+      "PackagePath": "staticwebassets\\login-ui2\\js\\common.js"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\login-ui2\\login.html",
+      "PackagePath": "staticwebassets\\login-ui2\\login.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\login-ui2\\register.html",
+      "PackagePath": "staticwebassets\\login-ui2\\register.html"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\5c24071e-956f-44e9-82c5-da205ff2e91a.png",
+      "PackagePath": "staticwebassets\\products\\images\\5c24071e-956f-44e9-82c5-da205ff2e91a.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\74043191-9bc1-411d-9f06-e76d23f3db38.png",
+      "PackagePath": "staticwebassets\\products\\images\\74043191-9bc1-411d-9f06-e76d23f3db38.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\9337730b-7fa1-4621-b40c-48fcf0db90f1.jpg",
+      "PackagePath": "staticwebassets\\products\\images\\9337730b-7fa1-4621-b40c-48fcf0db90f1.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\972941de-e93c-4415-9733-1899d8a5541d.png",
+      "PackagePath": "staticwebassets\\products\\images\\972941de-e93c-4415-9733-1899d8a5541d.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\9a2781bf-1dd6-45e9-a6fe-075551aab624.png",
+      "PackagePath": "staticwebassets\\products\\images\\9a2781bf-1dd6-45e9-a6fe-075551aab624.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\9f06a4f2-c28f-498e-98e9-163eff931745.jpg",
+      "PackagePath": "staticwebassets\\products\\images\\9f06a4f2-c28f-498e-98e9-163eff931745.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\ab1925aa-d223-4018-88dd-ae368ae33d84.png",
+      "PackagePath": "staticwebassets\\products\\images\\ab1925aa-d223-4018-88dd-ae368ae33d84.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\c4cabe3f-44a1-43b0-b6ff-18d32782c29a.png",
+      "PackagePath": "staticwebassets\\products\\images\\c4cabe3f-44a1-43b0-b6ff-18d32782c29a.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\c9e40131-a256-48d4-a764-f0f4236cdbd7.png",
+      "PackagePath": "staticwebassets\\products\\images\\c9e40131-a256-48d4-a764-f0f4236cdbd7.png"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\e3366ed3-823b-42a2-bb87-ccdabd2bb65d.jpg",
+      "PackagePath": "staticwebassets\\products\\images\\e3366ed3-823b-42a2-bb87-ccdabd2bb65d.jpg"
+    },
+    {
+      "Id": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.WebApp\\wwwroot\\products\\images\\f03a3b38-3c79-4570-b7b2-9343e5a167fb.jpg",
+      "PackagePath": "staticwebassets\\products\\images\\f03a3b38-3c79-4570-b7b2-9343e5a167fb.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CShop.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CShop.WebApp.props",
+      "PackagePath": "build\\CShop.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CShop.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\CShop.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CShop.WebApp.props",
+      "PackagePath": "buildTransitive\\CShop.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

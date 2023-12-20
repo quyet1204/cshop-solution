@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj": {}
+    "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.Common\\CShop.Common.csproj": {}
   },
   "projects": {
-    "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj": {
+    "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.Common\\CShop.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
+        "projectUniqueName": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
         "projectName": "CShop.Common",
-        "projectPath": "E:\\9. Internship\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\9. Internship\\cshop-solution\\CShop.Common\\obj\\",
+        "projectPath": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.Common\\CShop.Common.csproj",
+        "packagesPath": "C:\\Users\\quyet\\.nuget\\packages\\",
+        "outputPath": "D:\\Tailieu\\DTPM\\cshop-solution\\cshop-solution\\CShop.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\quyet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
